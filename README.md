@@ -1,3 +1,5 @@
+<title>CV</title>
+
 ## Education  
 **Volgograd State University (VolSU)**  
 *Bachelor of Science in Software Engineering* ('2027)  
