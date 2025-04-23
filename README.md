@@ -20,7 +20,7 @@
 ---
 
 ## Soft Skills
-**English Proficiency**: B1+ (Intermediate)  
+**English Proficiency**: B1+ (Intermediate Plus)  
 
 ---
 
