@@ -8,16 +8,16 @@
 
 ## Technical Skills  
 **Languages**:  
-- TypeScript (TS), C#, PHP, SQL  
+- TypeScript (TS), Golang, PHP, SQL  
 
 **Frameworks & Tools**:  
-- Node.js, SvelteKit, .NET, Git, Docker  
+- Node.js, SvelteKit, Gin, Git, Docker  
 
-**Databases**:  
+**DB**:  
 - PostgreSQL, MySQL, MongoDB  
 
 **Other**:  
-- Linux/Unix, REST API, gRPC  
+- Linux/Unix, REST API, gRPC, Redis, RabbitMQ  
 
 ---
 
@@ -28,4 +28,4 @@
 
 ## Experience
 
-**Full-Stack Developer**: freelance, 2023-2024
+**Full-Stack Developer**: freelance, 2023-2026
